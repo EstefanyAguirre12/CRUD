@@ -13,6 +13,12 @@ Run the project:
 ```bash
 yarn start
 ```
+
+Project run on:
+
+```bash
+http://localhost:3000/
+```
 ### Backend
 Install dependencies:
 
